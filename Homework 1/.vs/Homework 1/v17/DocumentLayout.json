@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Rhode\\Documents\\Computer Class Stuff\\104-homework-rhodew-2\\Homework 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{611D810F-7634-8DDF-3356-E7962F955376}|Assembly-CSharp.csproj|c:\\users\\rhode\\documents\\computer class stuff\\104-homework-rhodew-2\\homework 1\\assets\\scripts\\player hw2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{611D810F-7634-8DDF-3356-E7962F955376}|Assembly-CSharp.csproj|C:\\Users\\Rhode\\Documents\\Computer Class Stuff\\104-homework-rhodew-2\\Homework 1\\assets\\scripts\\player hw2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{611D810F-7634-8DDF-3356-E7962F955376}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player hw2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611D810F-7634-8DDF-3356-E7962F955376}|Assembly-CSharp.csproj|c:\\users\\rhode\\documents\\computer class stuff\\104-homework-rhodew-2\\homework 1\\assets\\scripts\\teleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611D810F-7634-8DDF-3356-E7962F955376}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\teleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teleporter.cs",
+              "DocumentMoniker": "C:\\Users\\Rhode\\Documents\\Computer Class Stuff\\104-homework-rhodew-2\\Homework 1\\Assets\\Scripts\\Teleporter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Teleporter.cs",
+              "ToolTip": "C:\\Users\\Rhode\\Documents\\Computer Class Stuff\\104-homework-rhodew-2\\Homework 1\\Assets\\Scripts\\Teleporter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Teleporter.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:09:26.156Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player HW2.cs",
               "ToolTip": "C:\\Users\\Rhode\\Documents\\Computer Class Stuff\\104-homework-rhodew-2\\Homework 1\\Assets\\Scripts\\Player HW2.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player HW2.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAYwCwAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAowIwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T19:48:10.452Z",
               "EditorCaption": ""
